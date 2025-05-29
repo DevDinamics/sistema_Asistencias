@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #c4c4c4;
+}
+
+
+h1{
+    text-align: center;
+    padding: 50px;
+    font-size: 40px;
+    color: #000000;
+}
+#fecha{
+    text-align: center;
+    color: #000000;
+    font-weight: normal;
+    font-size: 35px;
+}
+.container{
+    width: 700px;
+    background: #ffffff;
+    padding: 30px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+
+
+}
+.acceso{
+    color: #ff2600;
+}
+.clave{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+input{
+    width: 100%;
+    padding: 20px;
+    outline: none;
+}
+.botones{
+    display: flex;
+    margin-top: 10px;
+}
+.entrada{
+    background: #11ff00;
+    width: 100%;
+    padding: 20px 20px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+.salida{
+    background: #ff312e;
+    width: 100%;
+    padding: 20px 20px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+
+
+
